@@ -1,0 +1,26 @@
+michaelbere, daniel.brown1
+===============================================================================
+Michael Berelejis, ID 203527973, michael.berelejis@mail.huji.ac.il
+Daniel Brown, ID 311340723, daniel.brown1@mail.huji.ac.il
+===============================================================================
+
+                           Project 10 - Compilation pt. I
+                           ----------------------
+  
+
+Submitted Files
+---------------
+README - 
+	description of the project.
+JackAnalyzer.py -
+	The main python class, which manages the file parsing and compilation process.
+file_parser.py -
+	The Python file in charge of file parsing and writing.
+JackTokenizer.py -
+	The Python class in charge of the tokenizing process.
+CompilationEngine.py -
+	The Python class in charge of compilation jack code to xml code.
+Makefile - 
+	Enables to call the program with the command JackAnalyzer.
+JackAnalyzer - 
+	Calls the program with the right arguments.
